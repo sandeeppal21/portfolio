@@ -68,7 +68,7 @@ Driven by a thoughtful, vibe-based approach`}),E.jsxs("div",{className:"flex jus
                   opacity-0 blur-xl\r
                   transition-opacity duration-300\r
                   group-hover:opacity-60\r
-                `}),E.jsx("img",{src:`/skills/${o}.png`,alt:o,className:`\r
+                `}),E.jsx("img",{src:`./skills/${o}.png`,alt:o,className:`\r
                   relative z-10\r
                   w-10 h-10 object-contain\r
                   transition-transform duration-300\r
